@@ -1,0 +1,14 @@
+#Assigment 2
+1. The assignment statement effects a change to the value of a variable. It geves a variable a new value.
+2. The five Basic variables are integers, string, float, bool, none
+3.if i=7
+  then 7/4=1 (use of intergers does  not include decimals)
+4. X%Y yields ramainder
+5. A program that asks for a number from 1 to 31
+   s1[1:32]
+   s1[::3]
+
+6.'x'*100
+7.Harry's Hippie Hoedown: tickets only $5
+8. Harry's Hippie Hoedown: tickets only $555
+9
