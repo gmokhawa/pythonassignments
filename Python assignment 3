@@ -1,0 +1,7 @@
+1.my_function()
+2.functions are statements (collection of statements that produce/return a value when executed)
+ when a function is called it becomes a variable
+4.name=raw_input ("what is your name")
+  print "hello" + name
+5.number=raw_input ("enter two Numbers")
+6.bbbb
